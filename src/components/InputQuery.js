@@ -5,4 +5,4 @@ function InputQuery() {
         <input placeHolder={'Enter your query here..'} />
     )
 }
-export Default InputQuery
+export default InputQuery
