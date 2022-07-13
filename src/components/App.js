@@ -4,7 +4,7 @@ import '../styles/App.css';
 const App = () => {
   return (
     <div id="main">
-      < />
+      <Heading/>
       < />
       < />
       < />
